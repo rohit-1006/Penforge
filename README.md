@@ -38,7 +38,6 @@ Extend by subclassing `PluginBase` or adding to `exploit_chains`.
 ## Ethical Considerations
 - Use only in authorized lab environments.
 - Unauthorized testing may violate laws (e.g., CFAA in the US).
-- For OSCP+: Adhere to exam rules, document thoroughly, and limit to one target.
 - Always obtain explicit permission for testing.
 
 ## Acknowledgments
